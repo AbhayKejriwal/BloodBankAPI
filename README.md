@@ -33,4 +33,4 @@ Each blood bank entry has the following fields:
 
 ## Test Results
 
-The test results screenshots are available in the Postman Test Results folder.
+The test results screenshots are available in the 'PostmanTestResults' folder.
